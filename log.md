@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+My Day 1 of 100Days, and my second day in Sitka, Alaska! 
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
