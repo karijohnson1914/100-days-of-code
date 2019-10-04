@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 My Day 1 of 100Days, and my second day in Sitka, Alaska! 
+I reviewed some basicss on FreeCodeCAmp and then spent time putting a third slider in a project. None of the three are working well yet.
 
 
 ### Day 0: February 30, 2016 (Example 1)
